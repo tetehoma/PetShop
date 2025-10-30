@@ -1,5 +1,5 @@
 
-# PetShop
+# PetShop for beginners
 
 ## App to exemplify a PetShop with this funcionalitties:
 
